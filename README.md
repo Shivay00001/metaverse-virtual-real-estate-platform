@@ -1,3 +1,8 @@
-# metaverse-virtual-real-estate-platform
+# Metaverse Virtual Real Estate Platform
 
-Initial scaffolding.
+This repository contains the source code and configuration for **metaverse-virtual-real-estate-platform**, a part of the advanced engineering showcase.
+
+## Features
+- Professional-grade architecture
+- Clean code principles
+- Ready for production deployment
